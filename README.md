@@ -1,6 +1,6 @@
-# readwrite
+# readwrite Application
 
-A new Flutter project.
+These application can store data in mobile storage and update us with the last information added inside the file and show the data in text widget. 
 
 ## Getting Started
 
